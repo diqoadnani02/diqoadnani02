@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diqoadnani02
-- 👀 I’m interested in ...web Developing and Game Developing
+- 👀 I’m interested in ...Web Developing and Game Developing
 - 🌱 I’m currently learning ...Visual Studio Code and Gamemaker Studio 2
 - 💞️ I’m looking to collaborate on ...anybody
 - 📫 How to reach me ... Discord:diqoadnani#5153
